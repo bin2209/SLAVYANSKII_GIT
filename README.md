@@ -10,12 +10,12 @@
 
 ВСТАВЬТЕ УКАЗЫ
 
-alias русь='git'
-alias русь+крестить='git init'
-alias свиток='git status'
-alias предки='git log'
-alias волхвовать='git add'
-alias знание='git commit'
+- alias русь='git'
+- alias русь+крестить='git init'
+- alias свиток='git status'
+- alias предки='git log'
+- alias волхвовать='git add'
+- alias знание='git commit'
 
 СОХРАНИТЕ ДАННУЮ ЛЕТОПИСЬ
 ПЕРЕЗАПУСТИТЕ ОБОЛОЧКУ
