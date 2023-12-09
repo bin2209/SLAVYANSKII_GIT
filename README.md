@@ -2,6 +2,7 @@
 Славянская система контроля версий
 
 
+![image](https://github.com/sammorozov/SLAVYANSKII_GIT/assets/109150200/9730db65-4e0c-44ba-aca9-4a07e1aa168f)
 ![Uploading image.png…]()
 
 Славяне! Объединяйтесь делать славянский GIT!
