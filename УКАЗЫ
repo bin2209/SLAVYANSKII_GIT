@@ -5,3 +5,4 @@ alias предки='git log'
 alias волхвовать='git add'
 alias знание='git commit'
 
+x
